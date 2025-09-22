@@ -3,7 +3,7 @@
 // import viteLogo from "/vite.svg";
 import "./App.css";
 import CardGrid from "./components/CardGrid";
-import JobCard from "./components/card";
+import JobCard from "./components/Card";
 import siteLogo from "./assets/sitelogo.webp";
 
 function App() {
